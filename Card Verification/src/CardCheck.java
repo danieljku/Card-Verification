@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * class P2
+ * class CardCheck
  * This program takes in a credit card number and checks its validity. Type long is used for the
  * entered credit card number. Type int is used for the start of the credit card numbers and the
  * min and max size of the number. This program will tell the user if the credit card number inputed
